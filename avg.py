@@ -6,3 +6,4 @@ average = sum(numbers) / len(numbers)
 
 print(average)
 
+# THIS code is moidified
