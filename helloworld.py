@@ -1,2 +1,1 @@
-print("Welcome!!!!!")
-#added exclamtion marks
+print("welcome")
